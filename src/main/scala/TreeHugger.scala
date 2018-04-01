@@ -1,4 +1,0 @@
-
-object TreeHugger extends App {
-
-}
